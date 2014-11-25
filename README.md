@@ -1,4 +1,2 @@
-sub.caravaggio
-==============
-
-test subdomain
+sub caravaggio
+==========
